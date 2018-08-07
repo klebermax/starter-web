@@ -16,6 +16,8 @@ This is a simple web project, depolyment can be on any web server or even local 
 
 ## How to Contribute
 
+Please for this repository and then issue pull requests for review.
+
 ### Copyright
 
 2018 Git.Training.
